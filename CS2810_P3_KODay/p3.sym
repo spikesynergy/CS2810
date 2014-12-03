@@ -1,0 +1,33 @@
+// Symbol table
+// Scope level 0:
+//	Symbol Name       Page Address
+//	----------------  ------------
+//	LOOP              300C
+//	TESTNUM           3021
+//	PRINTNUMSTR       3027
+//	NOTANUMBER        302A
+//	NOTPRINTABLE      302D
+//	FINISH            3030
+//	newLine           3039
+//	exclamation       303A
+//	negExcl           303B
+//	space             303C
+//	negZero           303D
+//	negNine           303E
+//	lowPrintable      303F
+//	highPrintable     3040
+//	class             3041
+//	name              304C
+//	project           3058
+//	getNumMsg         3063
+//	errorNumMsg       3080
+//	noPrintMsg        30A4
+//	doneMsg           30C5
+//	termMsg           30CC
+//	numStringSize     30EA
+//	numbers           30EB
+//	KBSRPtr           3131
+//	KBDRPtr           3132
+//	DSRPtr            3133
+//	DDRPtr            3134
+

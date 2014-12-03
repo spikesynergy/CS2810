@@ -1,0 +1,10 @@
+// Symbol table
+// Scope level 0:
+//	Symbol Name       Page Address
+//	----------------  ------------
+//	newLine           3011
+//	class             3012
+//	name              301D
+//	project           3029
+//	termMsg           3034
+

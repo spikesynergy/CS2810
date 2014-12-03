@@ -1,0 +1,16 @@
+// Symbol table
+// Scope level 0:
+//	Symbol Name       Page Address
+//	----------------  ------------
+//	newLine           3020
+//	class             3021
+//	name              302C
+//	project           3038
+//	getCharMsg        3043
+//	prntCharMsg       305E
+//	KBSRPtr           3078
+//	KBDRPtr           3079
+//	DSRPtr            307A
+//	DDRPtr            307B
+//	termMsg           307C
+
