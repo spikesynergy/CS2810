@@ -1,0 +1,43 @@
+// Symbol table
+// Scope level 0:
+//	Symbol Name       Page Address
+//	----------------  ------------
+//	Main              3000
+//	LOOP              3009
+//	NumberTest        3016
+//	TestUpper         3021
+//	TestLower         302C
+//	DisplayResults    3037
+//	GreaterOrEqual    304F
+//	NumToASCII        3059
+//	FINISH            3062
+//	classHeader       3068
+//	getMessage        308B
+//	spaceCount        30AC
+//	numCount          30AD
+//	upperCount        30AE
+//	lowerCount        30AF
+//	SaveR7            30B0
+//	true              30B1
+//	fales             30B2
+//	asciiZero         30B3
+//	newLine           30B4
+//	negNewLine        30B5
+//	negSpace          30B6
+//	negZero           30B7
+//	negNine           30B8
+//	negNumNine        30B9
+//	negUpperA         30BA
+//	negUpperZ         30BB
+//	negLowerA         30BC
+//	negLowerZ         30BD
+//	greaterThan       30BE
+//	equalTo           30C2
+//	replaceMe         30C4
+//	outMsg            30C6
+//	outMsgNum         30DB
+//	outMsgUpper       30EB
+//	outMsgLower       30FB
+//	outMsgSpace       310B
+//	termMsg           311B
+
